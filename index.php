@@ -11,8 +11,9 @@
     define('ROOT', dirname(__FILE__));
     require_once(ROOT.'/components/Router.php');
     require_once(ROOT.'/components/Db.php');
-
-    //DATABASE CONNECTION
+    //Comment for pull request
+    //second comment
+    //third comment
 
     // CALL OF ROUTER
     $router = new Router();
